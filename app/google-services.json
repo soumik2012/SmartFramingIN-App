@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364916494775",
+    "firebase_url": "https://smart-framing-app.firebaseio.com",
+    "project_id": "smart-framing-app",
+    "storage_bucket": "smart-framing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364916494775:android:7cc1d3295369849c18d832",
+        "android_client_info": {
+          "package_name": "com.codewithsoumik.smartframingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364916494775-luihb16c63c6oaljg2o8ti88tu0j7340.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithsoumik.smartframingapp",
+            "certificate_hash": "155ad577d43060a5f56aef6af4f912c4a3e86335"
+          }
+        },
+        {
+          "client_id": "364916494775-odkrb67832do1a8tkr6g5oipv4ktb18k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmhqFPy5VEG4AHhvHdOcNnE-91CGKcHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364916494775-odkrb67832do1a8tkr6g5oipv4ktb18k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
